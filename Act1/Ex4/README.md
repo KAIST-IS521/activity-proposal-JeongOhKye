@@ -1,1 +1,1 @@
-# IS-521
+# is-521: Git Exercise
